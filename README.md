@@ -1,4 +1,4 @@
-# Flutterway Payment Gateway Package For PHP
+# Flutterwave Payment Gateway Package For PHP
 
 An easy to use php package for flutterway payment gateway
 The easiest way to make and accept payments from customers anywhere in the world.
