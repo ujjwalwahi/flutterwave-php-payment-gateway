@@ -1,5 +1,5 @@
 <?php 
-namespace Flutterwave;
+namespace Flutterwave\Flutterwave;
 
 Class Transaction 
 {
